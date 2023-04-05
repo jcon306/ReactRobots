@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactRobots/static/css/main.432cffb5.css",
+    "main.js": "/ReactRobots/static/js/main.327f64db.js",
+    "static/js/787.32032a02.chunk.js": "/ReactRobots/static/js/787.32032a02.chunk.js",
+    "static/media/Viafont.woff": "/ReactRobots/static/media/Viafont.81f4932ef9580a4ec93e.woff",
+    "index.html": "/ReactRobots/index.html",
+    "main.432cffb5.css.map": "/ReactRobots/static/css/main.432cffb5.css.map",
+    "main.327f64db.js.map": "/ReactRobots/static/js/main.327f64db.js.map",
+    "787.32032a02.chunk.js.map": "/ReactRobots/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.432cffb5.css",
+    "static/js/main.327f64db.js"
+  ]
+}
